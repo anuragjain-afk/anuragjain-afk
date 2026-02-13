@@ -41,7 +41,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **aj258030@example.com**  
-- 💼 GitHub: [github.com/YOUR_USERNAME](https://github.com/anuragjain-afk)
+- 💼 GitHub: [github.com/anuragjain-afk](https://github.com/anuragjain-afk)
 
 ---
 
