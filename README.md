@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: **aj258030@example.com**  
+- 📧 Email: **aj258030@gmail.com**  
 - 💼 GitHub: [github.com/anuragjain-afk](https://github.com/anuragjain-afk)
 
 ---
