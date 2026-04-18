@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=anuragjain-afk&theme=tokyonight" />
 </p>
 
 ---
