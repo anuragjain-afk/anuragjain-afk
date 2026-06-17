@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 💻 Passionate **Web Developer** with strong fundamentals  
-- 🌱 Currently learning **Advanced JavaScript, PHP & Databases**  
+- 🌱 BCA Graduate and Web Developer focused on building scalable web applications using JavaScript, PHP, MySQL, and modern web technologies**  
 - 🧠 Love turning ideas into real-world web products  
 - ⚡ Believe in *clean code, performance & good UI*
 
